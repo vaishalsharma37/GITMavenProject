@@ -4,5 +4,7 @@ public class Practice {
     {
         System.out.println("GIT practice");
         System.out.println("2nd test");
+        File2 obj = new File2();
+        obj.printText();
     }
 }
